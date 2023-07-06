@@ -18,7 +18,7 @@ ${files
         '.ts',
       )}](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/${file})`,
   )
-  .join('\n')}
+  .join('\n\n')}
   `
   await writeFile(readmePath, content, 'utf-8')
 })()

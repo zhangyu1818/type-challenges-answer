@@ -4,3 +4,4 @@
 node scripts/genReadme.js
 git add ./README.md
 npx lint-staged
+npx tsc --project tsconfig.json

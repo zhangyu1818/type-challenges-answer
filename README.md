@@ -17,4 +17,6 @@
 [00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)
 
 [00533-easy-concat](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00533-easy-concat.ts)
+
+[00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)
   

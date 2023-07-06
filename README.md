@@ -19,4 +19,6 @@
 [00533-easy-concat](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00533-easy-concat.ts)
 
 [00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)
+
+[03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
   

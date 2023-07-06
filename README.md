@@ -2,6 +2,8 @@
 
 [00002-medium-return-type](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00002-medium-return-type.ts)
 
+[00003-medium-omit](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00003-medium-omit.ts)
+
 [00004-easy-pick](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00004-easy-pick.ts)
 
 [00007-easy-readonly](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00007-easy-readonly.ts)

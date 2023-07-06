@@ -12,6 +12,8 @@
 
 [00009-medium-deep-readonly](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00009-medium-deep-readonly.ts)
 
+[00010-medium-tuple-to-union](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00010-medium-tuple-to-union.ts)
+
 [00011-easy-tuple-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00011-easy-tuple-to-object.ts)
 
 [00014-easy-first](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00014-easy-first.ts)

@@ -16,6 +16,8 @@
 
 [00011-easy-tuple-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00011-easy-tuple-to-object.ts)
 
+[00012-medium-chainable-options](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00012-medium-chainable-options.ts)
+
 [00014-easy-first](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00014-easy-first.ts)
 
 [00018-easy-tuple-length](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00018-easy-tuple-length.ts)

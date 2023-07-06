@@ -1,6 +1,7 @@
 {
   "name": "type-challenges-answer",
   "private": true,
+  "type": "module",
   "description": "type-challenges answer",
   "scripts": {
     "test": "tsc",

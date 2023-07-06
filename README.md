@@ -11,4 +11,6 @@
 [00018-easy-tuple-length](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00018-easy-tuple-length.ts)
 
 [00043-easy-exclude](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00043-easy-exclude.ts)
+
+[00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
   

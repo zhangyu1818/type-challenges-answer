@@ -8,6 +8,8 @@
 
 [00007-easy-readonly](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00007-easy-readonly.ts)
 
+[00008-medium-readonly-2](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00008-medium-readonly-2.ts)
+
 [00011-easy-tuple-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00011-easy-tuple-to-object.ts)
 
 [00014-easy-first](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00014-easy-first.ts)

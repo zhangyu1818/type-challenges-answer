@@ -40,6 +40,8 @@
 
 [00116-medium-replace](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00116-medium-replace.ts)
 
+[00119-medium-replaceall](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00119-medium-replaceall.ts)
+
 [00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
 
 [00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)

@@ -32,6 +32,8 @@
 
 [00062-medium-type-lookup](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00062-medium-type-lookup.ts)
 
+[00106-medium-trimleft](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00106-medium-trimleft.ts)
+
 [00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
 
 [00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)

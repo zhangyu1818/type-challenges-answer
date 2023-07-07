@@ -8,7 +8,9 @@ const readmePath = path.resolve(cwd, './README.md')
 
 ;(async () => {
   const files = await readdir(srcPath)
-  const content = `# ts-challenges-answer
+  const content = `# type-challenges-answer
+
+Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
 
 ${files
   .map(

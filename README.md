@@ -1,4 +1,6 @@
-# ts-challenges-answer
+# type-challenges-answer
+
+Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
 
 [00002-medium-return-type](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00002-medium-return-type.ts)
 

@@ -39,4 +39,6 @@
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)
+
+[03312-easy-parameters](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03312-easy-parameters.ts)
   

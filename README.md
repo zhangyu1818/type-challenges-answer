@@ -38,6 +38,8 @@
 
 [00110-medium-capitalize](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00110-medium-capitalize.ts)
 
+[00116-medium-replace](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00116-medium-replace.ts)
+
 [00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
 
 [00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)

@@ -36,6 +36,8 @@
 
 [00108-medium-trim](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00108-medium-trim.ts)
 
+[00110-medium-capitalize](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00110-medium-capitalize.ts)
+
 [00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
 
 [00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)

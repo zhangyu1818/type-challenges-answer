@@ -22,6 +22,8 @@
 
 [00015-medium-last](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00015-medium-last.ts)
 
+[00016-medium-pop](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00016-medium-pop.ts)
+
 [00018-easy-tuple-length](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00018-easy-tuple-length.ts)
 
 [00043-easy-exclude](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00043-easy-exclude.ts)

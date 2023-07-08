@@ -58,6 +58,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00527-medium-append-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00527-medium-append-to-object.ts)
 
+[00529-medium-absolute](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00529-medium-absolute.ts)
+
 [00533-easy-concat](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00533-easy-concat.ts)
 
 [00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)

@@ -66,6 +66,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00599-medium-merge](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00599-medium-merge.ts)
 
+[00612-medium-kebabcase](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00612-medium-kebabcase.ts)
+
 [00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)
 
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)

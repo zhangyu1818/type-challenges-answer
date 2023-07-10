@@ -74,6 +74,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00949-medium-anyof](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00949-medium-anyof.ts)
 
+[01042-medium-isnever](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/01042-medium-isnever.ts)
+
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)

@@ -78,6 +78,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [01097-medium-isunion](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/01097-medium-isunion.ts)
 
+[01130-medium-replacekeys](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/01130-medium-replacekeys.ts)
+
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)

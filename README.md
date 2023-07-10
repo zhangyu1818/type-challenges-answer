@@ -82,6 +82,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [01367-medium-remove-index-signature](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/01367-medium-remove-index-signature.ts)
 
+[01978-medium-percentage-parser](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/01978-medium-percentage-parser.ts)
+
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)

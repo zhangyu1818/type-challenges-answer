@@ -86,6 +86,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [02070-medium-drop-char](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02070-medium-drop-char.ts)
 
+[02257-medium-minusone](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02257-medium-minusone.ts)
+
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)

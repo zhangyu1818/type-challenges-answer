@@ -116,6 +116,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03062-medium-shift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03062-medium-shift.ts)
 
+[03188-medium-tuple-to-nested-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03188-medium-tuple-to-nested-object.ts)
+
 ## Hard
 
 ## Extreme

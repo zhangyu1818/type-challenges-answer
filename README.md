@@ -118,6 +118,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03188-medium-tuple-to-nested-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03188-medium-tuple-to-nested-object.ts)
 
+[03192-medium-reverse](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03192-medium-reverse.ts)
+
 ## Hard
 
 ## Extreme

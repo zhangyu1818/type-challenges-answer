@@ -22,7 +22,7 @@
     "prettier": "^3.0.0"
   },
   "lint-staged": {
-    "*.ts": [
+    "*.{ts,md}": [
       "prettier --write"
     ]
   }

@@ -2,13 +2,39 @@
 
 Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
 
-[00002-medium-return-type](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00002-medium-return-type.ts)
-
-[00003-medium-omit](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00003-medium-omit.ts)
+## Easy
 
 [00004-easy-pick](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00004-easy-pick.ts)
 
 [00007-easy-readonly](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00007-easy-readonly.ts)
+
+[00011-easy-tuple-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00011-easy-tuple-to-object.ts)
+
+[00014-easy-first](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00014-easy-first.ts)
+
+[00018-easy-tuple-length](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00018-easy-tuple-length.ts)
+
+[00043-easy-exclude](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00043-easy-exclude.ts)
+
+[00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
+
+[00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)
+
+[00533-easy-concat](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00533-easy-concat.ts)
+
+[00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)
+
+[03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
+
+[03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)
+
+[03312-easy-parameters](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03312-easy-parameters.ts)
+
+## Medium
+
+[00002-medium-return-type](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00002-medium-return-type.ts)
+
+[00003-medium-omit](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00003-medium-omit.ts)
 
 [00008-medium-readonly-2](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00008-medium-readonly-2.ts)
 
@@ -16,21 +42,13 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00010-medium-tuple-to-union](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00010-medium-tuple-to-union.ts)
 
-[00011-easy-tuple-to-object](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00011-easy-tuple-to-object.ts)
-
 [00012-medium-chainable-options](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00012-medium-chainable-options.ts)
-
-[00014-easy-first](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00014-easy-first.ts)
 
 [00015-medium-last](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00015-medium-last.ts)
 
 [00016-medium-pop](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00016-medium-pop.ts)
 
-[00018-easy-tuple-length](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00018-easy-tuple-length.ts)
-
 [00020-medium-promise-all](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00020-medium-promise-all.ts)
-
-[00043-easy-exclude](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00043-easy-exclude.ts)
 
 [00062-medium-type-lookup](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00062-medium-type-lookup.ts)
 
@@ -44,11 +62,7 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00119-medium-replaceall](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00119-medium-replaceall.ts)
 
-[00189-easy-awaited](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00189-easy-awaited.ts)
-
 [00191-medium-append-argument](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00191-medium-append-argument.ts)
-
-[00268-easy-if](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00268-easy-if.ts)
 
 [00296-medium-permutation](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00296-medium-permutation.ts)
 
@@ -62,15 +76,11 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [00531-medium-string-to-union](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00531-medium-string-to-union.ts)
 
-[00533-easy-concat](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00533-easy-concat.ts)
-
 [00599-medium-merge](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00599-medium-merge.ts)
 
 [00612-medium-kebabcase](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00612-medium-kebabcase.ts)
 
 [00645-medium-diff](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00645-medium-diff.ts)
-
-[00898-easy-includes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00898-easy-includes.ts)
 
 [00949-medium-anyof](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/00949-medium-anyof.ts)
 
@@ -102,9 +112,6 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [02852-medium-omitbytype](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02852-medium-omitbytype.ts)
 
-[03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
+## Hard
 
-[03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)
-
-[03312-easy-parameters](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03312-easy-parameters.ts)
-  
+## Extreme

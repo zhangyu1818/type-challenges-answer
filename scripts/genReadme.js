@@ -8,9 +8,26 @@ const readmePath = path.resolve(cwd, './README.md')
 
 ;(async () => {
   const files = await readdir(srcPath)
-  const content = `# type-challenges-answer
+  const [easy, medium, hard, extreme] = files.reduce(
+    (arr, cur) => {
+      if (cur.includes('easy')) {
+        arr[0].push(cur)
+      }
+      if (cur.includes('medium')) {
+        arr[1].push(cur)
+      }
+      if (cur.includes('hard')) {
+        arr[2].push(cur)
+      }
+      if (cur.includes('extreme')) {
+        arr[3].push(cur)
+      }
+      return arr
+    },
+    [[], [], [], []],
+  )
 
-Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
+  const print = (type, files) => `## ${type}
 
 ${files
   .map(
@@ -20,7 +37,17 @@ ${files
         '.ts',
       )}](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/${file})`,
   )
-  .join('\n\n')}
+  .join('\n\n')}   
+`
+
+  const content = `# type-challenges-answer
+
+Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
+
+${print('Easy', easy)}
+${print('Medium', medium)}
+${print('Hard', hard)}
+${print('Extreme', extreme)}
   `
   await writeFile(readmePath, content, 'utf-8')
 })()

@@ -98,6 +98,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [02759-medium-requiredbykeys](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02759-medium-requiredbykeys.ts)
 
+[02793-medium-mutable](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02793-medium-mutable.ts)
+
 [03057-easy-push](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03057-easy-push.ts)
 
 [03060-easy-unshift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03060-easy-unshift.ts)

@@ -114,6 +114,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [02946-medium-objectentries](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02946-medium-objectentries.ts)
 
+[03062-medium-shift](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03062-medium-shift.ts)
+
 ## Hard
 
 ## Extreme

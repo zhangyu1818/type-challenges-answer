@@ -112,6 +112,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [02852-medium-omitbytype](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02852-medium-omitbytype.ts)
 
+[02946-medium-objectentries](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/02946-medium-objectentries.ts)
+
 ## Hard
 
 ## Extreme

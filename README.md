@@ -120,6 +120,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03192-medium-reverse](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03192-medium-reverse.ts)
 
+[03196-medium-flip-arguments](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03196-medium-flip-arguments.ts)
+
 ## Hard
 
 ## Extreme

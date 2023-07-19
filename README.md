@@ -124,6 +124,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03243-medium-flattendepth](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03243-medium-flattendepth.ts)
 
+[03326-medium-bem-style-string](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03326-medium-bem-style-string.ts)
+
 ## Hard
 
 ## Extreme

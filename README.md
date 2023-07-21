@@ -126,6 +126,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03326-medium-bem-style-string](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03326-medium-bem-style-string.ts)
 
+[03376-medium-inordertraversal](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03376-medium-inordertraversal.ts)
+
 ## Hard
 
 ## Extreme

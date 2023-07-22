@@ -130,6 +130,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [04179-medium-flip](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04179-medium-flip.ts)
 
+[04803-medium-trim-right](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04803-medium-trim-right.ts)
+
 ## Hard
 
 ## Extreme

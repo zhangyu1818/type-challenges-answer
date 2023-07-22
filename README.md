@@ -132,6 +132,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [04803-medium-trim-right](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04803-medium-trim-right.ts)
 
+[05117-medium-without](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05117-medium-without.ts)
+
 ## Hard
 
 ## Extreme

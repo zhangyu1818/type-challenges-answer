@@ -128,6 +128,8 @@ Answers of type-challenges, I have added comments to some questions that I think
 
 [03376-medium-inordertraversal](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/03376-medium-inordertraversal.ts)
 
+[04179-medium-flip](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04179-medium-flip.ts)
+
 ## Hard
 
 ## Extreme

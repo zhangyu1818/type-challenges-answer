@@ -130,6 +130,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [04179-medium-flip](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04179-medium-flip.ts)
 
+[04182-medium-fibonacci-sequence](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04182-medium-fibonacci-sequence.ts)
+
 [04803-medium-trim-right](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04803-medium-trim-right.ts)
 
 [05117-medium-without](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05117-medium-without.ts)

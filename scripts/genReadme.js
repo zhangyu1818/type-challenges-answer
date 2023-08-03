@@ -42,7 +42,7 @@ ${files
 
   const content = `# type-challenges-answer
 
-Answers of type-challenges, I have added comments to some questions that I think are quite challenging.
+Answers of [type-challenges](https://github.com/type-challenges/type-challenges), I have added comments to some questions that I think are quite challenging.
 
 ${print('Easy', easy)}
 ${print('Medium', medium)}

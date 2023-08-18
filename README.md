@@ -136,6 +136,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [04425-medium-greater-than](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04425-medium-greater-than.ts)
 
+[04471-medium-zip](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04471-medium-zip.ts)
+
 [04803-medium-trim-right](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04803-medium-trim-right.ts)
 
 [05117-medium-without](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05117-medium-without.ts)

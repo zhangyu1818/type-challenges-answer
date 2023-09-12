@@ -142,6 +142,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [04499-medium-chunk](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04499-medium-chunk.ts)
 
+[04518-medium-fill](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04518-medium-fill.ts)
+
 [04803-medium-trim-right](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/04803-medium-trim-right.ts)
 
 [05117-medium-without](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05117-medium-without.ts)

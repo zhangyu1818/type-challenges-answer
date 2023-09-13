@@ -148,6 +148,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05117-medium-without](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05117-medium-without.ts)
 
+[05140-medium-trunc](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05140-medium-trunc.ts)
+
 ## Hard
 
 ## Extreme

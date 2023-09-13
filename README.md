@@ -150,6 +150,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05140-medium-trunc](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05140-medium-trunc.ts)
 
+[05153-medium-indexof](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05153-medium-indexof.ts)
+
 ## Hard
 
 ## Extreme

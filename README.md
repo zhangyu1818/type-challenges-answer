@@ -164,6 +164,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [08640-medium-number-range](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08640-medium-number-range.ts)
 
+[08767-medium-combination](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08767-medium-combination.ts)
+
 ## Hard
 
 ## Extreme

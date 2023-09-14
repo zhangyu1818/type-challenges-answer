@@ -154,6 +154,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05310-medium-join](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05310-medium-join.ts)
 
+[05317-medium-lastindexof](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05317-medium-lastindexof.ts)
+
 ## Hard
 
 ## Extreme

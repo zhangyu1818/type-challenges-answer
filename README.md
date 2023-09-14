@@ -158,6 +158,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05360-medium-unique](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05360-medium-unique.ts)
 
+[05821-medium-maptypes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05821-medium-maptypes.ts)
+
 ## Hard
 
 ## Extreme

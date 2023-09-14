@@ -162,6 +162,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [07544-medium-construct-tuple](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/07544-medium-construct-tuple.ts)
 
+[08640-medium-number-range](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08640-medium-number-range.ts)
+
 ## Hard
 
 ## Extreme

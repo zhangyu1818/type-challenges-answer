@@ -160,6 +160,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05821-medium-maptypes](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05821-medium-maptypes.ts)
 
+[07544-medium-construct-tuple](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/07544-medium-construct-tuple.ts)
+
 ## Hard
 
 ## Extreme

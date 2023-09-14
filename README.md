@@ -156,6 +156,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [05317-medium-lastindexof](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05317-medium-lastindexof.ts)
 
+[05360-medium-unique](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/05360-medium-unique.ts)
+
 ## Hard
 
 ## Extreme

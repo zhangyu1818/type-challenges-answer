@@ -168,6 +168,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [08987-medium-subsequence](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08987-medium-subsequence.ts)
 
+[09142-medium-checkrepeatedchars](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/09142-medium-checkrepeatedchars.ts)
+
 ## Hard
 
 ## Extreme

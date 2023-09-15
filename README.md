@@ -166,6 +166,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [08767-medium-combination](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08767-medium-combination.ts)
 
+[08987-medium-subsequence](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/08987-medium-subsequence.ts)
+
 ## Hard
 
 ## Extreme

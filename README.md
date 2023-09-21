@@ -170,6 +170,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [09142-medium-checkrepeatedchars](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/09142-medium-checkrepeatedchars.ts)
 
+[09286-medium-firstuniquecharindex](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/09286-medium-firstuniquecharindex.ts)
+
 ## Hard
 
 ## Extreme

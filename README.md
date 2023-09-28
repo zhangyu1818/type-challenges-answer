@@ -176,6 +176,8 @@ Answers of [type-challenges](https://github.com/type-challenges/type-challenges)
 
 [09896-medium-get-middle-element](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/09896-medium-get-middle-element.ts)
 
+[09898-medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su](https://github.com/zhangyu1818/type-challenges-answer/blob/main/src/09898-medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su.ts)
+
 ## Hard
 
 ## Extreme
